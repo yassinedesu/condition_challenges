@@ -30,9 +30,7 @@ int main(){
     }
     else{
         printf("L'équation n'a pas de solutions dans R.");
-    }
-    
-    
-
+    }        
+    return 0;
 
 }

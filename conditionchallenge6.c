@@ -1,4 +1,4 @@
-//........................... Challenge 3 : Somme de Deux Valeurs ...........................//
+//........................... Challenge 6 : Positif, Négatif ou Nul ...........................//
 
 #include <stdio.h>
 
