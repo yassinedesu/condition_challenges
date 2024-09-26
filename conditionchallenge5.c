@@ -31,7 +31,7 @@ int main(){
         break;
         case '5' : printf("%d ans = %d secondes",annee,annee*365*24*60*60);
         break;
-        default    : printf("Veuillez entrer un de les choix disponibles :");
+        default  : printf("Veuillez entrer un de les choix disponibles :");
         break;
                  
     }
